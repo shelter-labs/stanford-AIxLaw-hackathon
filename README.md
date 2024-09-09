@@ -1,3 +1,30 @@
+
+# Stanford AIxLaw Hackathon
+# Stanford AI x Law Hackathon (9/8/2024, Stanford Campus)
+- Team Name: Segfault Security Solutions
+- Team Members: Caleb Ditchfield (github: kryptoklob)
+- Repository: Stanford-AIxLaw-Hackathon_Google-Docs-Dispute-Resolution
+- Whiteboarding Start Time: 5:51pm PST (end: 6:16pm PST)
+- Code Start Time: 6:24pm PST
+- Code Deadline: 7:00pm PST
+
+# Project: Google Docs Automated Dispute Resolution
+
+![Here's the plan - whiteboarded out just now in one of the hacking rooms @ the Stanford AI x Law hackathon.](whiteboard.png)
+
+## Built With:
+
+- [Langchain](https://github.com/langchain-ai/langchainjs)
+- NodeJS
+- Typescript
+- Google Docs Integrations (tbd)
+
+---
+
+Everything below this line is the *original* forked readme - probably no time to update it given that I only have 12 minutes left.
+
+---
+
 # install
 
 ## Prerequisites
