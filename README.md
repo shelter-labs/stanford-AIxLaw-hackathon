@@ -12,6 +12,8 @@
 
 ![Here's the plan - whiteboarded out just now in one of the hacking rooms @ the Stanford AI x Law hackathon.](whiteboard.png)
 
+[https://docs.google.com/document/d/17lCyWnT9TnhfsiEuNxbsEIYWEhc57eboPlnFx3xerIk/edit?usp=sharing](Example Google Doc)
+
 ## Built With:
 
 - [Langchain](https://github.com/langchain-ai/langchainjs)
